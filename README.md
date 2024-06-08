@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [my protfolio website](https://myprotfolio-f06a9.web.app/)
 
-- 👨‍💻 All of my projects are available at [todo](todo)
+- 👨‍💻 All of my projects are available at [https://myprotfolio-f06a9.web.app/]
 
 - 💬 Ask me about **react, node, mongodb, html, css, bootstrap**
 
 - 📫 How to reach me **subratasarker952@gmail.com**
 
-- 📄 Know about my experiences [todo](todo)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1w-jRaWWMQMOshtitOPovzbl2praBwOlW/view?usp=sharing]
 
 - ⚡ Fun fact **I think i am serious all time.**
 
