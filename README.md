@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subratasarker952&label=Profile%20views&color=0e75b6&style=flat" alt="subratasarker952" /> </p>
 
-- 🔭 I’m currently working on [my protfolio website](todo)
+- 🔭 I’m currently working on [my protfolio website](https://myprotfolio-f06a9.web.app/)
 
 - 👨‍💻 All of my projects are available at [todo](todo)
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **react, node, mongodb, html, css, bootstrap**
 
 - 📫 How to reach me **subratasarker952@gmail.com**
 
